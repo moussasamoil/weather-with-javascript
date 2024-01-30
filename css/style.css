@@ -1,0 +1,37 @@
+img{
+    height: 200px;
+}
+nav{
+    color: rgb(228, 202, 202);
+    background-color: rgba(19, 25, 48, 0.8);
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+.search{
+    position: relative;
+}
+#btn{
+    width: 10%;
+    position: absolute;
+    right: 1%;
+    top: 0;
+}
+.degree{
+    font-size: 100px;
+}
+
+.text-status{
+    color: blue;
+}
+.div1{
+    background-color: rgba(19, 25, 48, 0.8);
+}
+.div2{
+    background-color: rgba(34, 41, 70, 0.8);
+}
+img{
+    width: 100px;
+    height: 100px;
+}
